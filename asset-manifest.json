@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/algo-vis/static/css/main.c95f87ca.css",
+    "main.js": "/algo-vis/static/js/main.96e50a1a.js",
+    "static/js/787.5726593b.chunk.js": "/algo-vis/static/js/787.5726593b.chunk.js",
+    "index.html": "/algo-vis/index.html",
+    "main.c95f87ca.css.map": "/algo-vis/static/css/main.c95f87ca.css.map",
+    "main.96e50a1a.js.map": "/algo-vis/static/js/main.96e50a1a.js.map",
+    "787.5726593b.chunk.js.map": "/algo-vis/static/js/787.5726593b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c95f87ca.css",
+    "static/js/main.96e50a1a.js"
+  ]
+}
